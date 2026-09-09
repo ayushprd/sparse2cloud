@@ -1,0 +1,16 @@
+data/
+outputs/
+figures/
+logs/
+checkpoints/
+*.pt
+*.npy
+*.npz
+*.h5
+*.zarr
+*.nc
+*.parquet
+__pycache__/
+*.pyc
+.DS_Store
+.venv/

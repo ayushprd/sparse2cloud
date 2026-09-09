@@ -1,0 +1,15 @@
+torch>=2.0
+timm>=0.9
+numpy
+scipy
+scikit-learn
+pandas
+xarray
+netCDF4
+h5py
+zarr>=3.0
+matplotlib
+cartopy
+earthaccess
+cdsapi
+earthcare-downloader
