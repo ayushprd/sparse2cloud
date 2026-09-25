@@ -2,11 +2,12 @@
 
 <p align="center">
   <b>Ice Cloud Geometry Retrieval with Calibrated Uncertainty from Passive Satellite Imagery</b><br>
-  Ayush Prasad · <b>ECCV 2026</b>
+  Ayush Prasad · <b>ECCV 2026 (Spotlight)</b>
 </p>
 
 <p align="center">
-  <a href="https://eccv.ecva.net/virtual/2026/poster/5781"><img src="https://img.shields.io/badge/ECCV-2026-1b6675" alt="ECCV 2026"></a>
+  <a href="https://link.springer.com/chapter/10.1007/978-3-032-37422-6_27"><img src="https://img.shields.io/badge/Paper-Springer-1b6675" alt="Paper"></a>
+  <a href="https://eccv.ecva.net/virtual/2026/poster/5781"><img src="https://img.shields.io/badge/ECCV_2026-Spotlight-1b6675" alt="ECCV 2026 Spotlight"></a>
   <a href="https://ayushprasad.com/projects/sparse2cloud/"><img src="https://img.shields.io/badge/Project-Page-1b6675" alt="Project page"></a>
   <a href="https://github.com/ayushprd/sparse2cloud"><img src="https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white" alt="Code"></a>
   <img src="https://img.shields.io/badge/license-MIT-informational" alt="License">
@@ -141,7 +142,9 @@ python 63_overview_figure.py
                from Passive Satellite Imagery},
   author    = {Prasad, Ayush},
   booktitle = {European Conference on Computer Vision (ECCV)},
-  year      = {2026}
+  pages     = {468--481},
+  year      = {2026},
+  doi       = {10.1007/978-3-032-37422-6_27}
 }
 ```
 
